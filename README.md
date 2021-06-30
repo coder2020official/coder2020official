@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+# About me
+I am from Uzbekistan, python developer.
+
+Read my repositories below..
 <!--
 **coder2020official/coder2020official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
