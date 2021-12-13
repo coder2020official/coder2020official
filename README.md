@@ -4,6 +4,11 @@
 I am from Uzbekistan, python developer.
 
 Read my repositories below..
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder2020official&show_icons=true&theme=radical)
+
+
 <!--
 **coder2020official/coder2020official** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
