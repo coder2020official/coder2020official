@@ -10,3 +10,6 @@ I contribute mostly to [eternnoir/pyTelegramBotAPI](https://github.com/eternnoir
 # Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=coder2020official&show_icons=true&theme=radical)
+
+# Portfolio
+Check out my [telegram channel](https://t.me/coder2020portfolio) for more;
